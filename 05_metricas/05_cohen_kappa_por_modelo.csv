@@ -1,0 +1,19 @@
+modelo,comparacion,kappa
+deepseek:6.7b,RoBERTa vs DistilRoBERTa,0.28819
+deepseek:6.7b,RoBERTa vs DeBERTa,0.21103
+deepseek:6.7b,DistilRoBERTa vs DeBERTa,0.22854
+gemma3:4b,RoBERTa vs DistilRoBERTa,0.727247
+gemma3:4b,RoBERTa vs DeBERTa,0.780491
+gemma3:4b,DistilRoBERTa vs DeBERTa,0.683899
+llama3:8b,RoBERTa vs DistilRoBERTa,0.545647
+llama3:8b,RoBERTa vs DeBERTa,0.699887
+llama3:8b,DistilRoBERTa vs DeBERTa,0.531423
+mistral0.2:7b,RoBERTa vs DistilRoBERTa,0.552363
+mistral0.2:7b,RoBERTa vs DeBERTa,0.67054
+mistral0.2:7b,DistilRoBERTa vs DeBERTa,0.539021
+phi3:3.8b,RoBERTa vs DistilRoBERTa,0.36136
+phi3:3.8b,RoBERTa vs DeBERTa,0.434201
+phi3:3.8b,DistilRoBERTa vs DeBERTa,0.487785
+qwen2.5:7b,RoBERTa vs DistilRoBERTa,0.53707
+qwen2.5:7b,RoBERTa vs DeBERTa,0.63809
+qwen2.5:7b,DistilRoBERTa vs DeBERTa,0.538537
